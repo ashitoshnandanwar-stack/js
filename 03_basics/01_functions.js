@@ -1,12 +1,12 @@
 
-function sayMyname(){
-    console.log("A");
-    console.log("S");
-    console.log("H");
-    console.log("U");
-}
+// function sayMyname(){
+//     console.log("A");
+//     console.log("S");
+//     console.log("H");
+//     console.log("U");
+// }
 
-sayMyname();
+// sayMyname();
 
 // function addTwoNumbers(number1, number2)  //number1 and number2 = parameters
 // {
@@ -40,3 +40,35 @@ const user = loginUserMessage("ashitosh");
 console.log(user);
 
 
+//function with objecta and array
+
+function calculateCartPrice(val1, val2,...num1)  //rest operator(work like array (form array))
+{
+    return num1;
+}
+console.log(calculateCartPrice(200, 400, 500, 1000));  // 200 and 400 goes to the val1 and val2
+
+const user1 = {
+    username: "Ashitosh",
+    price: 199
+}
+
+function handleObject(anyobject){
+    console.log(`Username is ${anyobject.username} and price is ${anyobject.price}`);
+    
+}
+
+// handleObject(user1);
+
+handleObject({
+    username: "Sam",
+    price: 399
+})
+
+const mynewArray = [200,400,500,700];
+
+function returnSecondValue(getArray)
+{
+    return getArray[1];
+}
+console.log(returnSecondValue(mynewArray));
