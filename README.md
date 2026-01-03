@@ -124,3 +124,4 @@ console.log(arr);    // [1, 4, 5]
 | mouseenter() | Mouse enters |
 | submit()     | Form submit  |
 
+- DNS flow: Browser → Cache → Local DNS → Root Server → TLD Server → Authoritative Server → IP Address
