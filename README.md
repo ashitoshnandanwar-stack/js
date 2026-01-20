@@ -1,6 +1,9 @@
 # js
 A code repo for javascript
 
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 20, 2026, 11_33_29 PM" src="https://github.com/user-attachments/assets/5b59edda-37b9-45f5-9ed2-404fb373d59a" />
+
 # js execute context
 {} -> Global execution context(in browser 'this' is window function)
 1.Global execution context
