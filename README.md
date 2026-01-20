@@ -4,9 +4,7 @@ A code repo for javascript
 
 <img width="1536" height="1024" alt="ChatGPT Image Jan 20, 2026, 11_33_29 PM" src="https://github.com/user-attachments/assets/5b59edda-37b9-45f5-9ed2-404fb373d59a" />
 
-<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/35ef9576-d640-4586-95ba-b72f0cbdc5f6" />
-
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bf2977f7-a81a-4f8f-9c45-6bbc18722e9b" />
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/2546374a-3c60-4e89-9941-1a46f911fb02" />
 
 
 
