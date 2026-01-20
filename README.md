@@ -6,6 +6,9 @@ A code repo for javascript
 
 <img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/35ef9576-d640-4586-95ba-b72f0cbdc5f6" />
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bf2977f7-a81a-4f8f-9c45-6bbc18722e9b" />
+
+
 
 # js execute context
 {} -> Global execution context(in browser 'this' is window function)
